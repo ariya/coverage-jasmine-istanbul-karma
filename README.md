@@ -9,4 +9,8 @@ npm test
 
 and then open the code coverage report under the subdirectory `coverage`.
 
-The tests are executed using [PhantomJS](http://phantomjs.org). It is easy to add [other browsers](http://karma-runner.github.io/0.10/config/browsers.html) as well.
+The tests are executed using [PhantomJS](http://phantomjs.org). It is easy to add [other browsers](http://karma-runner.github.io/0.10/config/browsers.html) as well
+
+Using Grunt? Apply [the tweak](https://github.com/ariya/coverage-jasmine-istanbul-karma/tree/grunt) and now the test becomes a task.
+
+
