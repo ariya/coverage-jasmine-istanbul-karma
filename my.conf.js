@@ -4,7 +4,7 @@ module.exports = function(config) {
     autoWatch: true,
     frameworks: ['jasmine'],
     files: [
-      '*.js',
+      'sqrt.js',
       'test/spec/*.js'
     ],
     browsers: ['PhantomJS'],
