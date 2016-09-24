@@ -1,4 +1,4 @@
-This repo contains an example setup for tracking code coverage of [Jasmine](http://pivotal.github.io/jasmine/) tests via [Istanbul](http://gotwarlost.github.io/istanbul/) and [Karma](http://karma-runner.github.io/).
+This repo contains an example setup for tracking code coverage of [Jasmine](https://jasmine.github.io/) tests via [Istanbul](http://gotwarlost.github.io/istanbul/) and [Karma](http://karma-runner.github.io/).
 
 Run the following:
 
